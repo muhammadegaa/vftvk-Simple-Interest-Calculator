@@ -1,4 +1,21 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:black;
+    font-family: Arial;
+    color: white;
+}
+h1{
+    color:grey;
+}
+.maindiv {
+    background-color: white;
+    color:black;
+    min-width: 300px;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 25px;
+    margin:0 auto;
+}
 
-
+#subSection{
+    margin: 0 10%;
+}
